@@ -29632,7 +29632,7 @@
 	        _react2.default.createElement(
 	            "div",
 	            { className: "row h1 col-lg-6 pull-right odaya" },
-	            "\u05DE\u05D2\u05D9\u05E9\u05D4: \u05D4\u05D5\u05D3\u05D9\u05D4 \u05E9\u05E8\u05D1\u05D9\u05D8 \u05D72"
+	            "\u05DE\u05D2\u05D9\u05E9\u05D4: \u05D0\u05D5\u05E8\u05D0\u05DC \u05E9\u05E8\u05D1\u05D9\u05D8 \u05D63"
 	        ),
 	        _react2.default.createElement(
 	            "div",
